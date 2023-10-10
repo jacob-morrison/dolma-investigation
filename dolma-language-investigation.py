@@ -10,5 +10,5 @@ fake_document = dolma.core.data_types.Document(
 fake_text_slice = dolma.core.data_types.TextSlice(fake_document.text, 0, 16)
 
 print('hello')
-tagger = dolma.language.Cld3LanguageTagger()
+tagger = dolma.language.FastTextEnglishLanguageParagraphWithDocScoreTagger()
 print(tagger.predict(doc = fake_document))
