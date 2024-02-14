@@ -1,0 +1,70 @@
+Summary statistics for document-level FastText tagging: 
+
+Total counts for CANADA_S_ALL: 300
+Unfiltered counts for CANADA_S_ALL: 300
+Filtered percentage for CANADA_S_ALL: 0.0
+
+Total counts for CANADA_W_ALL: 200
+Unfiltered counts for CANADA_W_ALL: 200
+Filtered percentage for CANADA_W_ALL: 0.0
+
+Total counts for EAST_AFRICA_S_ALL: 271
+Unfiltered counts for EAST_AFRICA_S_ALL: 271
+Filtered percentage for EAST_AFRICA_S_ALL: 0.0
+
+Total counts for EAST_AFRICA_W_ALL: 354
+Unfiltered counts for EAST_AFRICA_W_ALL: 354
+Filtered percentage for EAST_AFRICA_W_ALL: 0.0
+
+Total counts for HONG_KONG_S_ALL: 300
+Unfiltered counts for HONG_KONG_S_ALL: 300
+Filtered percentage for HONG_KONG_S_ALL: 0.0
+
+Total counts for HONG_KONG_W_ALL: 200
+Unfiltered counts for HONG_KONG_W_ALL: 200
+Filtered percentage for HONG_KONG_W_ALL: 0.0
+
+Total counts for INDIA_S_ALL: 300
+Unfiltered counts for INDIA_S_ALL: 300
+Filtered percentage for INDIA_S_ALL: 0.0
+
+Total counts for INDIA_W_ALL: 200
+Unfiltered counts for INDIA_W_ALL: 200
+Filtered percentage for INDIA_W_ALL: 0.0
+
+Total counts for IRELAND_S_ALL: 300
+Unfiltered counts for IRELAND_S_ALL: 300
+Filtered percentage for IRELAND_S_ALL: 0.0
+
+Total counts for IRELAND_W_ALL: 200
+Unfiltered counts for IRELAND_W_ALL: 200
+Filtered percentage for IRELAND_W_ALL: 0.0
+
+Total counts for JAMAICA_S_ALL: 300
+Unfiltered counts for JAMAICA_S_ALL: 300
+Filtered percentage for JAMAICA_S_ALL: 0.0
+
+Total counts for JAMAICA_W_ALL: 200
+Unfiltered counts for JAMAICA_W_ALL: 200
+Filtered percentage for JAMAICA_W_ALL: 0.0
+
+Total counts for PHILIPPINES_S_ALL: 300
+Unfiltered counts for PHILIPPINES_S_ALL: 300
+Filtered percentage for PHILIPPINES_S_ALL: 0.0
+
+Total counts for PHILIPPINES_W_ALL: 200
+Unfiltered counts for PHILIPPINES_W_ALL: 200
+Filtered percentage for PHILIPPINES_W_ALL: 0.0
+
+Total counts for SINGAPORE_S_ALL: 300
+Unfiltered counts for SINGAPORE_S_ALL: 300
+Filtered percentage for SINGAPORE_S_ALL: 0.0
+
+Total counts for SINGAPORE_W_ALL: 200
+Unfiltered counts for SINGAPORE_W_ALL: 200
+Filtered percentage for SINGAPORE_W_ALL: 0.0
+
+Total counts for USA_W_ALL: 200
+Unfiltered counts for USA_W_ALL: 200
+Filtered percentage for USA_W_ALL: 0.0
+

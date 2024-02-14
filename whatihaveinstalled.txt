@@ -1,0 +1,127 @@
+# packages in environment at /Users/jacobm/miniconda3/envs/dolma:
+#
+# Name                    Version                   Build  Channel
+annotated-types           0.6.0                    pypi_0    pypi
+antlr4-python3-runtime    4.9.3                    pypi_0    pypi
+anyascii                  0.3.2                    pypi_0    pypi
+bcrypt                    4.0.1                    pypi_0    pypi
+blingfire                 0.1.8                    pypi_0    pypi
+blis                      0.7.11                   pypi_0    pypi
+boto                      2.49.0                   pypi_0    pypi
+boto3                     1.28.62                  pypi_0    pypi
+botocore                  1.31.62                  pypi_0    pypi
+bzip2                     1.0.8                h620ffc9_4  
+ca-certificates           2023.08.22           hca03da5_0  
+cached-path               1.3.4                    pypi_0    pypi
+cachetools                5.3.1                    pypi_0    pypi
+catalogue                 2.0.10                   pypi_0    pypi
+certifi                   2023.7.22                pypi_0    pypi
+cffi                      1.16.0                   pypi_0    pypi
+charset-normalizer        3.3.0                    pypi_0    pypi
+click                     8.1.7                    pypi_0    pypi
+cloudpathlib              0.15.1                   pypi_0    pypi
+colorama                  0.4.4                    pypi_0    pypi
+confection                0.1.3                    pypi_0    pypi
+contourpy                 1.1.1                    pypi_0    pypi
+cryptography              41.0.4                   pypi_0    pypi
+cycler                    0.12.1                   pypi_0    pypi
+cymem                     2.0.8                    pypi_0    pypi
+decorator                 5.1.1                    pypi_0    pypi
+deprecated                1.2.14                   pypi_0    pypi
+detect-secrets            1.4.0                    pypi_0    pypi
+docutils                  0.16                     pypi_0    pypi
+dolma                     0.8.0                    pypi_0    pypi
+fabric                    3.2.2                    pypi_0    pypi
+fasttext-wheel            0.9.2                    pypi_0    pypi
+filelock                  3.9.1                    pypi_0    pypi
+fonttools                 4.43.1                   pypi_0    pypi
+fsspec                    2023.9.2                 pypi_0    pypi
+google-api-core           2.12.0                   pypi_0    pypi
+google-auth               2.23.3                   pypi_0    pypi
+google-cloud-core         2.3.3                    pypi_0    pypi
+google-cloud-storage      2.11.0                   pypi_0    pypi
+google-crc32c             1.5.0                    pypi_0    pypi
+google-resumable-media    2.6.0                    pypi_0    pypi
+googleapis-common-protos  1.60.0                   pypi_0    pypi
+huggingface-hub           0.12.1                   pypi_0    pypi
+idna                      3.4                      pypi_0    pypi
+importlib-resources       6.1.0                    pypi_0    pypi
+invoke                    2.2.0                    pypi_0    pypi
+jinja2                    3.1.2                    pypi_0    pypi
+jmespath                  1.0.1                    pypi_0    pypi
+joblib                    1.3.2                    pypi_0    pypi
+kiwisolver                1.4.5                    pypi_0    pypi
+langcodes                 3.3.0                    pypi_0    pypi
+libcxx                    14.0.6               h848a8c0_0  
+libffi                    3.4.4                hca03da5_0  
+markdown-it-py            3.0.0                    pypi_0    pypi
+markupsafe                2.1.3                    pypi_0    pypi
+matplotlib                3.8.0                    pypi_0    pypi
+mdurl                     0.1.2                    pypi_0    pypi
+msgspec                   0.18.4                   pypi_0    pypi
+murmurhash                1.0.10                   pypi_0    pypi
+ncurses                   6.4                  h313beb8_0  
+nltk                      3.8.1                    pypi_0    pypi
+numpy                     1.26.0                   pypi_0    pypi
+omegaconf                 2.3.0                    pypi_0    pypi
+openssl                   3.0.11               h1a28f6b_2  
+packaging                 23.2                     pypi_0    pypi
+pandas                    2.1.1                    pypi_0    pypi
+paramiko                  3.3.1                    pypi_0    pypi
+pathy                     0.10.2                   pypi_0    pypi
+phonenumbers              8.13.22                  pypi_0    pypi
+pillow                    10.1.0                   pypi_0    pypi
+pip                       23.2.1           py39hca03da5_0  
+preshed                   3.0.9                    pypi_0    pypi
+presidio-analyzer         2.2.32                   pypi_0    pypi
+prettytable               3.9.0                    pypi_0    pypi
+protobuf                  4.24.4                   pypi_0    pypi
+pyasn1                    0.5.0                    pypi_0    pypi
+pyasn1-modules            0.3.0                    pypi_0    pypi
+pybind11                  2.11.1                   pypi_0    pypi
+pycld2                    0.41                     pypi_0    pypi
+pycparser                 2.21                     pypi_0    pypi
+pydantic                  2.4.2                    pypi_0    pypi
+pydantic-core             2.10.1                   pypi_0    pypi
+pygments                  2.16.1                   pypi_0    pypi
+pynacl                    1.5.0                    pypi_0    pypi
+pyparsing                 3.1.1                    pypi_0    pypi
+python                    3.9.18               hb885b13_0  
+python-dateutil           2.8.2                    pypi_0    pypi
+pytz                      2023.3.post1             pypi_0    pypi
+pyyaml                    6.0.1                    pypi_0    pypi
+readline                  8.2                  h1a28f6b_0  
+regex                     2023.10.3                pypi_0    pypi
+requests                  2.31.0                   pypi_0    pypi
+requests-file             1.5.1                    pypi_0    pypi
+rich                      13.6.0                   pypi_0    pypi
+rsa                       4.7.2                    pypi_0    pypi
+s3fs                      0.4.2                    pypi_0    pypi
+s3transfer                0.7.0                    pypi_0    pypi
+seaborn                   0.13.0                   pypi_0    pypi
+setuptools                68.0.0           py39hca03da5_0  
+six                       1.16.0                   pypi_0    pypi
+smart-open                6.4.0                    pypi_0    pypi
+spacy                     3.7.1                    pypi_0    pypi
+spacy-legacy              3.0.12                   pypi_0    pypi
+spacy-loggers             1.0.5                    pypi_0    pypi
+sqlite                    3.41.2               h80987f9_0  
+srsly                     2.4.8                    pypi_0    pypi
+thinc                     8.2.1                    pypi_0    pypi
+tk                        8.6.12               hb8d0fd4_0  
+tldextract                3.6.0                    pypi_0    pypi
+tokenizers                0.13.3                   pypi_0    pypi
+tqdm                      4.66.1                   pypi_0    pypi
+typer                     0.9.0                    pypi_0    pypi
+typing-extensions         4.8.0                    pypi_0    pypi
+tzdata                    2023.3                   pypi_0    pypi
+uniseg                    0.7.2                    pypi_0    pypi
+urllib3                   1.26.17                  pypi_0    pypi
+wasabi                    1.1.2                    pypi_0    pypi
+wcwidth                   0.2.8                    pypi_0    pypi
+weasel                    0.3.2                    pypi_0    pypi
+wheel                     0.41.2           py39hca03da5_0  
+wrapt                     1.15.0                   pypi_0    pypi
+xz                        5.4.2                h80987f9_0  
+zipp                      3.17.0                   pypi_0    pypi
+zlib                      1.2.13               h5a0b063_0  
